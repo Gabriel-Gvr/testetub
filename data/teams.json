@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1735243788981,
+    "points": 10,
+    "name": "A Estrutura",
+    "emblemPath": "assets/images/emblems/A Estrutura.png"
+  },
+  {
+    "id": 1735243602635,
+    "points": 25,
+    "name": "Aliança Suprema",
+    "emblemPath": "assets/images/emblems/Aliança Suprema.jpg"
+  },
+  {
+    "id": 1735243701659,
+    "points": 35,
+    "name": "Aquila Victoriam",
+    "emblemPath": "assets/images/emblems/Aquila Victoriam.jpg"
+  }
+]
